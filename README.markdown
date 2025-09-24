@@ -102,7 +102,7 @@ This project involves analyzing the `Chinook Database`, a sample database repres
     *   `UnitPrice`: The price of the track at the time of purchase (may differ from `Track.UnitPrice` if prices change).
     *   `Quantity`: The number of units of that track purchased.
 ## Relations
-![Schema]()
+![Schema](https://github.com/HazemMedhat/Chinook-Database-Analysis-Project/blob/74bc5d5fb89a409eaa63ff08bd235effb1437f5e/Schema.png)
 
 1.  **Artist to Album (One-to-Many):** An `Artist` can have many `Album`s, but an `Album` is typically by only one `Artist`.
 
